@@ -11,4 +11,6 @@ tags:
   - readiness
   - ""
 ---
-Thoughts to follow.
+![Carrier Strike Group](/img/us-navy-fleet-warfighter-devsecops-environment-aws-secret-region-1200x600-1.jpg "Naval power projection through mission capabilities")
+
+What is the *product* of the US Navy?
